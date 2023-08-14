@@ -1,3 +1,3 @@
 # git-test
-My first GitHub repo!
+My First GitHub Repo!
 Hello TOP Peeps!
